@@ -1,0 +1,14 @@
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.exe
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.deps.json
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.runtimeconfig.json
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.runtimeconfig.dev.json
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.dll
+C:\Users\kerem\source\repos\Optimization\Optimization\bin\Debug\netcoreapp3.1\Optimization.pdb
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.AssemblyInfo.cs
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.dll
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.pdb
+C:\Users\kerem\source\repos\Optimization\Optimization\obj\Debug\netcoreapp3.1\Optimization.genruntimeconfig.cache
